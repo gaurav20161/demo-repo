@@ -10,4 +10,4 @@ keep a timeframe hi
 ### Local
 
 dnace kro
->>>>>>> quicktest
+chako
